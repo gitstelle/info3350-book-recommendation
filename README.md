@@ -82,7 +82,7 @@ While our research focused on predicting genre, this dataset has the potential t
 
 We did not prioritize accuracy metrics because the testing data does not contain true detective or testing labels. We plotted the true (blue) and predicted detective novels (orange) using the vectorized features. Our book recommendations are the overlapping dots on the graph. We repeated this with the horror novel results, resulting in 5 total book recommendation pairings.
 
-![All Detective Books excluding Holmes](images\detective-books.png)
+![All Detective Books excluding Holmes](images/detective-books.png)
 
 *Note: Sherlock Holmes' novels were outliers in the scatterplot so they were removed, hence the graph's title.*
 
@@ -94,7 +94,7 @@ We did not prioritize accuracy metrics because the testing data does not contain
 | 813| The Picture of Dorian Gray|
 | Agatha Webb |Silas Marner|
 
-![All Horror Books](images\horror-books.png)
+![All Horror Books](images/horror-books.png)
 
 **Horror Book Recommendations**
 
