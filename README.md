@@ -103,7 +103,7 @@ We did not prioritize accuracy metrics because the testing data does not contain
 | Northanger Abbey | Chaplet of Pearls|
 | The Man| The Lances of Lynwood|
 
-Overall, we didn't expect the recommendations we obtain from the classifer to be very great because it is only working with detective and horror, and it will be hard to find overlapping words with only those two genres and the various other genres in the corpus. We were excited that we even 5 pairs from the dataset!
+Overall, we didn't expect the recommendations we obtained from the classifer to be very great because it is only working with detective and horror, and it will be hard to find overlapping words with only those two genres and the various other genres in the corpus. We were excited that we even got 5 pairs from the dataset!
 
 # Future Work
 
@@ -114,7 +114,7 @@ We would love to explore this project with a different corpus because it does no
 # Acknowledgements/References
 [(Back to top)](#table-of-contents)
 
-Thank you to [Project Gutenberg](gutenberg.org) and its effort to make texts more accessible for reading and for data science!
+Thank you to [Project Gutenberg](gutenberg.org) and its effort to make texts more accessible for education and for data science!
 
 Thank you to Professor Wilkens and the INFO 3350 staff in assisting us with the project. Code used from lectures is cited in the final research report.
 
