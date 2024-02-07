@@ -1,5 +1,5 @@
 # Book Recommendation Classifier
-Gaby Chu and Estelle Hooper authored this research report as part of the midterm miniproject for INFO 3350: Text Mining for History and Literature in spring 2022. We were given a corpus of 160 novels from [Project Gutenberg](gutenberg.org). The assignment was to simply "learn something about them" using NLP tools learned in class thus far (we scored 100/100!).
+Gaby Chu and Estelle Hooper authored this research report for the midterm miniproject for INFO 3350: Text Mining for History and Literature in spring 2022. We were given a corpus of 160 novels from [Project Gutenberg](gutenberg.org). The assignment was to simply "learn something about them" using NLP tools learned in class thus far (we scored 100/100!).
 
 # Table of Contents
 
