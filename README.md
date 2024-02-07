@@ -1,8 +1,6 @@
 # Book Recommendation Classifier
 Gaby Chu and Estelle Hooper authored this research report as part of the midterm miniproject for INFO 3350: Text Mining for History and Literature in spring 2022. We were given a corpus of 160 novels from [Project Gutenberg](gutenberg.org). The assignment was to simply "learn something about them" using NLP tools learned in class thus far (we scored 100/100!).
 
-The techniques implemented were vectorization, identifying stopwords, normalization, standardization, matrix fitting, and modeling using naive bayes and logistic regression.
-
 # Table of Contents
 
 - [Book Recommendation Classifier](#book-recommendation-classifier)
@@ -20,12 +18,15 @@ The techniques implemented were vectorization, identifying stopwords, normalizat
 
 # Overview
 
+### Techniques
+vectorization, identifying stopwords, normalization, standardization, matrix fitting, and modeling using naive bayes and logistic regression
+
 ### Motivation
 
 When selecting consuming media, especially books, people often lean towards one genre or narrative because of limited time and attention; readers are hesitant to explore new narratives out of fear for disliking unfamilar content.
 
-> **Research Question:**
-How can we recommend books of other genres to lovers of a single genre?
+### Research Question
+>**How can we recommend books of other genres to lovers of a single genre?**
 
 We hypothesize that to trust another genre, there must be shared qualities with a reader's favorite genre. For example, detective fans could enjoy romance because both involve complex character motivations and relationships.
 
